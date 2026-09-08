@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# JP Investor Group LLC is a public real estate investment and acquisitions website.
+# The sitemap URL will be added when a published domain is selected.
